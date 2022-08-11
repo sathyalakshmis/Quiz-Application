@@ -3,7 +3,7 @@ This is a Quiz Application build using android studio, where there are three cat
 -> Technical
 -> Aptitude 
 -> Genral Knowledge 
-User can select one of the category and start playing.After the submission the score is displayed.
+User can select one of the category and start playing.After the submission the score is displayed along with a message relating to the score.
 ![image](https://user-images.githubusercontent.com/87848503/184146190-85a76faf-a24e-4bc8-95c0-b1a4aad3f5cc.png)
 
 ![image](https://user-images.githubusercontent.com/87848503/184146304-c8aa2275-2a6d-45b2-9b94-b210e0830e74.png)
